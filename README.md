@@ -1,7 +1,7 @@
 # 🐼| Manipulação de strings com Pandas
 
 ![Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-f5b5ca.svg)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-F8EE77.svg)
+![Status](https://img.shields.io/badge/Status-Concluído-abf285.svg)
 
 ## Índice
 
@@ -12,12 +12,17 @@
 - [Licença](#licença)
 
 ## Sobre o projeto
+Notebook construído para explorar as possibilidades de manipulação de *strings* usando a biblioteca Pandas, do Python. Além dos códigos de tratamento de dados, há também explicações detalhadas sobre cada passo realizado.
 
 ## Aprendizagens
+* Padronização de *strings*;
+* Utilização de expressões regulares (regex) para remover ou preservar partes específicas de um texto;
+* Remoção de espaços em branco com `strip`;
+* Separação de *strings* com `split`.
 
 ## Como acessar o projeto?
 O projeto foi feito por completo no Google Colaboratory, logo, para acessar a análise, clique no link abaixo:
-- [Projeto no Google Colaboratory]()
+- [Projeto no Google Colaboratory](https://colab.research.google.com/github/strawndri/python-ds-pandas-manipulacao-strings/blob/main/Manipulacao_strings.ipynb)
   
 ## Tecnologias utilizadas
 - [Google Colaboratory](https://colab.research.google.com/): Ambiente de notebook interativo baseado na nuvem;
